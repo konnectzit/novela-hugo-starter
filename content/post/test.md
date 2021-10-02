@@ -5,7 +5,6 @@ title: test
 excerpt: test
 date: 
 hero: ''
-draft: true
 
 ---
 testestte
